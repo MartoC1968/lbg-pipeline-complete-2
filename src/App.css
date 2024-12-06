@@ -4,23 +4,23 @@
 }
 
 .colour-border{
-  border: 3px solid red;
-  padding: 10px;
+  border: 3px solid rgba(187, 255, 0, 0.089);
+  padding: 12px;
 }
 
 .header{
-  padding: 10px;
+  padding: 12px;
 }
 
 h1 { 
-    color: maroon;
+    color: rgba(238, 20, 184, 0.644);
 }
 
 h3 { 
-  color: slategray;
+  color: rgb(14, 124, 235);
 }
 
 body  {
-  padding: 10px;
-  background-color: white;
+  padding: 14px;
+  background-color: rgb(96, 218, 132);
 }
